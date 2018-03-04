@@ -1,0 +1,25 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:all",
+        "tslint-react"
+    ],
+    "jsRules": {},
+    "rules": {
+        "newline-before-return": false,
+        "eofline": false,
+        "no-console": false,
+        "linebreak-style": [
+            true,
+            "CRLF"
+        ],
+        "typedef": false,
+        "no-import-side-effect": false,
+        "trailing-comma": [
+            false
+        ],
+        "prefer-function-over-method": false,
+        "jsx-wrap-multiline": false
+    },
+    "rulesDirectory": []
+}
